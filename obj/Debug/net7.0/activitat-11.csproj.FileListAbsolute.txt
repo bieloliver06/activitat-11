@@ -1,0 +1,15 @@
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\bin\Debug\net7.0\activitat-11.exe
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\bin\Debug\net7.0\activitat-11.deps.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\bin\Debug\net7.0\activitat-11.runtimeconfig.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\bin\Debug\net7.0\activitat-11.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\bin\Debug\net7.0\activitat-11.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.csproj.AssemblyReference.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.AssemblyInfoInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.AssemblyInfo.cs
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.csproj.CoreCompileInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\refint\activitat-11.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\activitat-11.genruntimeconfig.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\activitat-11\obj\Debug\net7.0\ref\activitat-11.dll
